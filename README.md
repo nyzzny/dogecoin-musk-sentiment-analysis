@@ -17,6 +17,7 @@
 ---
 
 ## Repository Structure
+
 ├── data/
 │ └── README.md # Data source & variable descriptions
 ├── code/
